@@ -3,7 +3,7 @@ Implementation of data structure in Google Workplace ( google sheets ) with the 
 
 https://mybooksurru.glide.page/ - official web application
 
-![landingpage(tab1)3](https://github.com/vermashaurya/webapp-glide/assets/136727534/78b798d5-a8dd-420f-9bb8-c64b02a0ea65)
+![landingpage(tab1)3](https://github.com/vermashaurya/webapp-glide/assets/136727534/03845d48-5d2c-4f1d-9f6d-cddb2cc0c303)
 
 https://docs.google.com/spreadsheets/d/1gg_hEIso5udU3Vljk_EBqiFcGTdgf8SloyFDjfopkjE/edit?usp=sharing - database ( google workspace ) 
 
