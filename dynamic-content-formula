@@ -1,0 +1,23 @@
+=ARRAYFORMULA(IF(A2:A <> "", "message1, first line of the sharing message - "&A2:A&" - by - "&B2:B&" - message2: "&E2:E& ". message3 - ", "")
+
+// this is the formula for dynamic content when the share-action is called
+
+for column and row reference
+              checkout: "https://docs.google.com/spreadsheets/d/1gg_hEIso5udU3Vljk_EBqiFcGTdgf8SloyFDjfopkjE/edit#gid=0"
+              
+the "&Xn:X" where X is the column alphabet and n is the row number
+              calls the cell corresponding to the input
+
+in the given formula above
+              =ARRAYFORMULA(IF(A2:A <> "", "message1, first line of the sharing message - "&A2:A&" - by - "&B2:B&" - message2: "&E2:E& ". message3 - ", "")
+A2:A displays the book name
+// refer to the google workspace file in the same repository to check the rows and columns corresponding to the data structure
+B2:B displays the author's name
+E2:E displays the description of the book. 
+                            to link the wiki page of the book, user might add "&G2:G&" in the 2nd row while applying the arrayformula 
+
+Shared message looks like this - 
+
+Hello friend! I am sharing with you this wonderful book - Freakonomics - by - Steven D. Levitt, Stephen J. Dubner - and here is a brief description of it:
+The book is a collection of articles written by Levitt, an economist who had gained a reputation for applying economic theory to diverse subjects not usually covered by "traditional" economists.
+In Freakonomics, Levitt and Dubner argue that economics is, at root, the study of incentives.. Shared via MyBooks app (Manual text wrapping applied)
