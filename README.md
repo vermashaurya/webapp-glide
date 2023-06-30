@@ -1,7 +1,7 @@
 # webapp-glide
 Implementation of data structure in Google Workplace ( google sheets ) with the integration of a UI assistant ( Glide ) to portray various application functionalities. 
 
-https://mybooksurru.glide.page/ - official web application
+https://mybooksurru.glide.page/ - official web application (hosted-live)
 
 ![landingpage(tab1)3](https://github.com/vermashaurya/webapp-glide/assets/136727534/0ef7cf64-e97e-4660-85a8-d7fc92357989)
 
